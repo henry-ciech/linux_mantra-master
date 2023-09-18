@@ -1,0 +1,9 @@
+*.class
+*.iml
+*.log
+.idea
+.vscode
+target
+.DS_Store
+README.html
+README.pdf
